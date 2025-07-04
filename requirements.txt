@@ -1,0 +1,28 @@
+# Data handling and analysis
+pandas
+numpy
+
+# Machine learning and embedding
+sentence-transformers
+transformers
+
+# Vector store
+faiss-cpu
+chromadb
+
+# Natural Language Processing
+nltk
+spacy
+
+# Text chunking
+langchain
+
+# Web framework for interface
+streamlit
+
+# Jupyter Notebook 
+jupyter
+
+# For visualization
+matplotlib
+seaborn
