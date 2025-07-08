@@ -13,15 +13,19 @@ ENV/
 .venv/
 
 # Data files
-data/
+data/*
 *.csv
+!data/.gitkeep
+!model/.gitkeep
 
 # Vector store files
-vector_store/
+vector_store/*
+!vector_store/.gitkeep
+notebooks/vector_store/
+
 
 # Model files
 models/
-
 # Logs
 *.log
 
